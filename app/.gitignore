@@ -1,0 +1,13 @@
+/build
+.gradle
+app/build/
+*.iml
+local.properties
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
